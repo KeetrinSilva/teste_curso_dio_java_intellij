@@ -13,3 +13,7 @@ public class PrimeiroPrograma {
         System.out.println("Hello World! " + (a+b));*/
     }
 }
+
+class Livro {
+    private String nome;
+}
